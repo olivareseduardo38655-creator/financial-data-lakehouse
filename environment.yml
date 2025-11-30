@@ -1,0 +1,14 @@
+﻿name: lakehouse-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - openjdk=11
+  - pip
+  - pip:
+      - pyspark==3.5.0
+      - delta-spark==3.0.0
+      - pandas
+      - jupyterlab
+      - pytest
