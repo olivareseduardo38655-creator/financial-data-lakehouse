@@ -110,4 +110,4 @@ Reglas aplicadas por capa para asegurar la calidad de la información financiera
 | **Gold** | Overwrite | Generación de vistas agregadas. Cálculo de métricas derivadas (Balance Total, Movimiento Diario). Modelo dimensional para consumo BI. |
 
 ---
-**Autor:** [Tu Nombre] - Data Engineer & Financial Specialist
+**Autor:** [Eduardo Olivares] - Data Engineer & Financial Specialist
